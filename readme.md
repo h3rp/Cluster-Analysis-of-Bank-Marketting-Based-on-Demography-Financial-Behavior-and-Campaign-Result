@@ -1,4 +1,4 @@
-<h2>Cluster Analysis of Bank Marketting Based on Demography, Financial Behavior and Campaign Result</h2>
+<h1>Cluster Analysis of Bank Marketting Based on Demography, Financial Behavior and Campaign Result</h1>
 
 **Context** </br>
 Find the best strategies to improve for the next marketing campaign. How can the financial institution have a greater effectiveness for future marketing campaigns? In order to answer this, we have to analyze the last marketing campaign the bank performed and identify the patterns that will help us find conclusions in order to develop future strategies. </br>
@@ -11,8 +11,8 @@ Algorithm = K-Means Clustering </br>
 best silhouette score = 0.48245867964416644 </br>
 best cluster = 3 </br>
 
-<h3>Result</h3>
-<h4>Demograhics</h4>
+<h1>Result</h1>
+<h2>Demograhics</h2>
 cluster 1: </br>
 
 - 77% of customers falling under cluster 1 are married and have an average age of 51 years
@@ -31,7 +31,7 @@ cluster 3: </br>
 - Majority have an educational qualification of secondary followed by tertiary then primary
 - The majority job is self employment job and followed by blue colar
 
-<h4>Financial Behaviour</h4>
+<h2>Financial Behaviour</h2>
 cluster 1:</br>
 
 - Average Balance: 2,515.86 (highest)
@@ -58,7 +58,7 @@ cluster 3: </br>
 - Personal Loan: 14.5% (moderate, similar to cluster 0)
 - Conclusion: Customers in this cluster likely have moderate financial stability, with decent balances and manageable loan dependency.
 
-<h4>Campaign Result</h4>
+<h2>Campaign Result</h2>
 Cluster 1 </br>
   
 This cluster has the highest average call duration, approximately 291.65 seconds, indicating that customers in this group tend to engage more in conversations. However, the average number of campaign contacts required to reach them is relatively low (2.36), suggesting that while they may take longer to respond, they are easier to reach compared to other clusters. Additionally, the average pdays (5.55) and previous contact count (0.11) indicate that these customers might be newer or less frequently contacted. Most of the previous campaign outcomes for this group are unknown (94.33% po_unknown), with only a small portion being successful (po_success 2.2%). The primary contact method for this cluster is cellular (57.08%), followed by telephone (9.96%) and unknown (32.95%), reflecting a mix of communication approaches.
