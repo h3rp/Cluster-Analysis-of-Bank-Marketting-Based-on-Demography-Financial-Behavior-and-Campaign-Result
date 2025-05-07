@@ -39,6 +39,7 @@ cluster 1:</br>
 </br>
 </br>
 cluster 2:</br>
+
 - Average Balance: 680.72 (lowest, indicating weaker financial position)
 - Average Default: 0.025 (highest, indicating greater default risk)
 - Housing Loan: 60.4% (relatively high, suggesting more customers with mortgages)
@@ -47,6 +48,7 @@ cluster 2:</br>
 </br>
 </br>
 cluster 3: </br>
+
 - Average Balance: 1,315.97 (moderate, between clusters 0 and 1)
 - Average Default: 0.008 (lowest, indicating very stable financial situation)
 - Housing Loan: 68.4% (highest, suggesting many customers with mortgages)
